@@ -8,6 +8,16 @@
 
 <br>
 
+<a href="https://github.com/allenvarghese05/aircast-nasa-hackathon">
+  <img src="assets/space-apps-2025-global-nominee.png" alt="2025 NASA International Space Apps Challenge — Global Nominee" width="320">
+</a>
+
+### 🏆 2025 NASA Space Apps Challenge — **Global Nominee**
+
+**🔗 [github.com/allenvarghese05/aircast-nasa-hackathon](https://github.com/allenvarghese05/aircast-nasa-hackathon)**
+
+<br>
+
 [![NASA Space Apps 2025](https://img.shields.io/badge/NASA%20Space%20Apps-2025-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
 [![Global Nominee](https://img.shields.io/badge/🏆%20Global%20Nominee-Top%201%2C219%20of%2011%2C500%2B-FFD700?style=for-the-badge)](https://www.spaceappschallenge.org/)
 [![Status](https://img.shields.io/badge/Status-Live%20Demo-00E400?style=for-the-badge)](#-running-aircast-locally)
