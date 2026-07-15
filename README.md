@@ -8,13 +8,13 @@
 
 <br>
 
-<a href="https://github.com/allenvarghese05/aircast-nasa-hackathon">
+<a href="https://www.spaceappschallenge.org/2025/find-a-team/relentless/?tab=project">
   <img src="assets/space-apps-2025-global-nominee.png" alt="2025 NASA International Space Apps Challenge — Global Nominee" width="320">
 </a>
 
 ### 🏆 2025 NASA Space Apps Challenge — **Global Nominee**
 
-**🔗 [github.com/allenvarghese05/aircast-nasa-hackathon](https://github.com/allenvarghese05/aircast-nasa-hackathon)**
+**🔗 [Check out our team page on NASA's Space Apps site](https://www.spaceappschallenge.org/2025/find-a-team/relentless/?tab=project)**
 
 <br>
 
